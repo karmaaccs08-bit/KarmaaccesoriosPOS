@@ -1,0 +1,8 @@
+CREDENCIALES KARMA POS — CONFIDENCIAL
+Entrega a cada persona solo su propia contraseña.
+
+Admin   (acceso completo)       usuario: admin   contraseña: Adminkarma2026!
+Sha     (acceso completo)       usuario: sha     contraseña: Shakarma2002!
+Teffy   (acceso completo)       usuario: teffy   contraseña: Teffykarma1985!
+Vicky   (acceso completo)       usuario: vicky   contraseña: Vickykarma1964!
+Extra   (rol Karma: solo POS)   usuario: extra   contraseña: Karmapos2026!
